@@ -21,17 +21,17 @@ Full-stack developer · Backend APIs · Cloud deployment
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
-- 💻 Desarrollo full-stack: backends con **Java/Spring Boot** y **Node.js/NestJS**, frontends con **React + TypeScript**
-- ☁️ Despliego en **AWS EC2**, **DigitalOcean App Platform** y **Aiven**, con **Docker** (multi-stage builds)
-- 🧪 Pruebas end-to-end con **Cypress**
-- 📄 Generación de reportes y documentos con **Python (ReportLab)** y **pptxgenjs**
-- 🌱 Actualmente ampliando conocimientos de redes y arquitectura cloud
+- Desarrollo full-stack: backends con **Java/Spring Boot** y **Node.js/NestJS**, frontends con **React + TypeScript**
+- Despliego en **AWS EC2**, **DigitalOcean App Platform** y **Aiven**, con **Docker** (multi-stage builds)
+- Pruebas end-to-end con **Cypress**
+- Generación de reportes y documentos con **Python (ReportLab)** y **pptxgenjs**
+- Actualmente ampliando conocimientos de redes y arquitectura cloud
 
 ---
 
-### 🛠️ Proyectos destacados
+### Proyectos destacados
 
 **[PrintLabel Manager](#)** — API REST en Spring Boot para generación de etiquetas de calzado
 Autenticación JWT, 6 módulos CRUD (usuarios, fábricas, programas, tallas, órdenes, estilos), generación de etiquetas en CSV, documentación Swagger. Desplegado en AWS EC2 con MariaDB, con variante lista para DigitalOcean + Aiven MySQL.
@@ -43,18 +43,12 @@ Construida con NestJS, PostgreSQL 15 y Redis. Desplegada en AWS EC2, con configu
 Frontend en React + TypeScript + Vite con Supabase como backend. Cobertura de pruebas end-to-end con Cypress (autenticación, checkout, accesibilidad).
 
 ---
-
-### 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Victor-crea&show_icons=true&theme=default&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-crea&layout=compact&theme=default" height="165" />
-</p>
+<div align="center">
+  <img src="https://ghstats.dev/api/langs?username=Victor-crea&layout=donut" alt="Top Languages" />
+</div>
 
 ---
 
-### 📫 Contacto
+### Contacto
 
-<p align="center">
-  <a href="mailto:victormarquezmares.30@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+<p align="center"> 📧 victormarquezmares.30@gmail.com &nbsp;|&nbsp; 📱 477 524 1825 </p>
